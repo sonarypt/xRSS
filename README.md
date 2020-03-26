@@ -9,5 +9,6 @@ __Recommendation__: web developers should make RSS for their websites.
 
 __Extra__:
 
-- [ ] Add variable to number of information can crawl for longer RSS xml.
-- [ ] Reuse older crawled information instead of crawl every time new information appear.
+- [X] Add variable to number of information can crawl for longer RSS xml.
+- [X] Reuse older crawled information instead of crawl every time new information appear.
+- [ ] Work with database instead of text file logging.
